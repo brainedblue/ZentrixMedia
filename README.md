@@ -12,7 +12,7 @@ The main idea was to make the site feel close to the work they do — video, mot
 
 ## What I Built
 
-I worked on the complete frontend of the website.
+I built the complete website as the sole developer.
 
 The site includes a 3D WebGL background, animated sections, custom video cards, service sections, contact options, and a project inquiry form.
 
