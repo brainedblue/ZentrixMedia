@@ -77,18 +77,24 @@ The site has quick contact options for WhatsApp and Discord, plus a project inqu
 
 ## My Role
 
-I handled the frontend development and deployment.
+I was the sole developer for this project.
+
+I handled the complete website from frontend development to deployment, including the layout, animations, 3D background, video showcase sections, contact flow, responsiveness, and final production setup.
 
 My work included:
 
-- Building the website structure
-- Creating the 3D visual background
-- Designing and coding the interactive sections
-- Building the custom video showcase UI
-- Adding animations and scroll effects
-- Making the site responsive
-- Connecting the inquiry form
-- Deploying the website live
+- Built the complete website from scratch
+- Created the full frontend structure using HTML, CSS, and JavaScript
+- Built the 3D animated background using Three.js and WebGL
+- Designed and coded the custom video showcase sections
+- Added custom video interactions like play/pause and mute
+- Used SVGs for icons, details, and visual elements
+- Added scroll animations, reveal effects, and animated stats
+- Built the process section with large cards and glowing connecting lines
+- Created the contact and project inquiry form
+- Integrated FormSubmit for form handling
+- Made the website responsive for desktop and mobile
+- Deployed the final website on Vercel
 
 ## Why the Source Code Is Private
 
