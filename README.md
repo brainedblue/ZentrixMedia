@@ -103,7 +103,3 @@ This was a freelance client project.
 The source code, brand assets, logos, videos, and custom files are private because they belong to the client.
 
 This repo is only a public case study for showing the project and linking to the live website.
-
-## Live Website
-
-https://zentrixmedia.in
